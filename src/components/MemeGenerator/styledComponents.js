@@ -50,7 +50,7 @@ export const MemeImgContainer = styled.div`
   }
 `
 
-export const MemeText = styled.h1`
+export const MemeText = styled.p`
   color: #ffffff;
   font-size: ${props => props.fontSize}px;
   font-weight: 500;
